@@ -1,0 +1,1 @@
+#Activer HTTPSRewriteEngine OnRewriteCond %{SERVER_PORT} 80RewriteRule ^(.*)$ https://www.louis-gambart.ovh$1 [R,L]#Désactiver l'indexageIndexIgnore *#Empêcher l'accès aux fichiers commencant par .*<FilesMatch "^\.">Order allow,denyDeny from all</FilesMatch>
