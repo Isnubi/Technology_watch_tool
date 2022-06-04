@@ -9,3 +9,7 @@ Ces pages web sont présélectionnées par moi-même depuis plusieurs sources.
 ## Accès
 
 Cet outil est accessible depuis mon [site web](https://www.louis-gambart.ovh/).
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
