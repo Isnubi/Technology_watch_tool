@@ -7,6 +7,8 @@ import csv
 import ftplib
 from datetime import datetime
 from deep_translator import GoogleTranslator
+# import ftp server information
+import config
 
 
 def time():
@@ -28,13 +30,13 @@ def login_ftp(ftpinstance):
     Connect to the FTP server
     :param ftpinstance:
     """
-    host = "ftp_url"
+    host = config.ftp_host
     port = 21
     ftpinstance.connect(host, port)
     print(ftpinstance.getwelcome())
     try:
         print("Logging in ...")
-        ftpinstance.login("login", "password")
+        ftpinstance.login(config.ftp_login, config.ftp_password)
         print("Logged")
     except ftplib.all_errors:
         print("Failed to login")
