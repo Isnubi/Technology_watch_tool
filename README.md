@@ -93,10 +93,7 @@ You can access it from my [website](https://www.louis-gambart.ovh/).
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Checked item
-- [ ] Unchecked item
-    - [x] Checked sub-item
-    - [ ] Unchecked sub-item
+
 
 See the [open issues](https://github.com/Isnubi/Veille_technologique/issues) for a full list of proposed features (and known issues).
 
