@@ -8,25 +8,25 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- Replace these markers with infos - "Veille_technologique"-->
+<!-- Replace these markers with infos - "Technology_watch-tool"-->
 
 <!-- PROJECT LOGO
 <br />
 <div align="center">
-  <a href="https://github.com/Isnubi/Veille_technologique/">
+  <a href="https://github.com/Isnubi/Technology_watch-tool/">
     <img src="x/x.png" alt="Logo">
   </a>
 -->
 
-
+<div align="center">"
 <h3 align="center">Technology watch tool</h3>
   <p align="center">
-    <a href="https://github.com/Isnubi/Veille_technologique/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Isnubi/Technology_watch-tool/"><strong>Explore the docs »</strong></a>
     <br />--------------------
     <br />
-    <a href="https://github.com/Isnubi/Veille_technologique/issues">Report Bug</a>
+    <a href="https://github.com/Isnubi/Technology_watch-tool/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Isnubi/Veille_technologique/issues">Request Feature</a>
+    <a href="https://github.com/Isnubi/Technology_watch-tool/issues">Request Feature</a>
   </p>
 </div>
 
@@ -95,7 +95,7 @@ You can access it from my [website](https://www.louis-gambart.ovh/).
 
 
 
-See the [open issues](https://github.com/Isnubi/Veille_technologique/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Isnubi/Technology_watch-tool/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 Isnubi - [@Louis_Gambart](https://twitter.com/Louis_Gambart) - contact@louis-gambart.fr
 <br>**Discord:** isnubi#6221
 
-**Project Link:** [https://github.com/Isnubi/Veille_technologique](https://github.com/Isnubi/Veille_technologique)
+**Project Link:** [https://github.com/Isnubi/Technology_watch-tool](https://github.com/Isnubi/Technology_watch-tool)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,16 +144,16 @@ Isnubi - [@Louis_Gambart](https://twitter.com/Louis_Gambart) - contact@louis-gam
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Isnubi/Veille_technologique.svg?style=for-the-badge
-[contributors-url]: https://github.com/Isnubi/Veille_technologique/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Isnubi/Veille_technologique.svg?style=for-the-badge
-[forks-url]: https://github.com/Isnubi/Veille_technologique/network/members
-[stars-shield]: https://img.shields.io/github/stars/Isnubi/Veille_technologique.svg?style=for-the-badge
-[stars-url]: https://github.com/Isnubi/Veille_technologique/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Isnubi/Veille_technologique.svg?style=for-the-badge
-[issues-url]: https://github.com/Isnubi/Veille_technologique/issues
-[license-shield]: https://img.shields.io/github/license/Isnubi/Veille_technologique.svg?style=for-the-badge
-[license-url]: https://github.com/Isnubi/Veille_technologique/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/Isnubi/Technology_watch-tool.svg?style=for-the-badge
+[contributors-url]: https://github.com/Isnubi/Technology_watch-tool/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Isnubi/Technology_watch-tool.svg?style=for-the-badge
+[forks-url]: https://github.com/Isnubi/Technology_watch-tool/network/members
+[stars-shield]: https://img.shields.io/github/stars/Isnubi/Technology_watch-tool.svg?style=for-the-badge
+[stars-url]: https://github.com/Isnubi/Technology_watch-tool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Isnubi/Technology_watch-tool.svg?style=for-the-badge
+[issues-url]: https://github.com/Isnubi/Technology_watch-tool/issues
+[license-shield]: https://img.shields.io/github/license/Isnubi/Technology_watch-tool.svg?style=for-the-badge
+[license-url]: https://github.com/Isnubi/Technology_watch-tool/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/louis-gambart
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
