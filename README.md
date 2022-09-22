@@ -8,7 +8,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- Replace these markers with infos - "Technology_watch-tool"-->
+<!-- Replace these markers with infos - "Technology_watch_tool"-->
 
 <!-- PROJECT LOGO
 <br />
@@ -24,9 +24,9 @@
     <a href="https://github.com/Isnubi/Technology_watch_tool"><strong>Explore the docs »</strong></a>
     <br />--------------------
     <br />
-    <a href="https://github.com/Isnubi/Technology_watch_toolissues">Report Bug</a>
+    <a href="https://github.com/Isnubi/Technology_watch_tool/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Isnubi/Technology_watch_toolissues">Request Feature</a>
+    <a href="https://github.com/Isnubi/Technology_watch_tool/issues">Request Feature</a>
   </p>
 </div>
 
@@ -95,7 +95,7 @@ You can access it from my [website](https://www.louis-gambart.ovh/).
 
 
 
-See the [open issues](https://github.com/Isnubi/Technology_watch_toolissues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Isnubi/Technology_watch_tool/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,16 +144,16 @@ Isnubi - [@Louis_Gambart](https://twitter.com/Louis_Gambart) - contact@louis-gam
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Isnubi/Technology_watch-tool.svg?style=for-the-badge
-[contributors-url]: https://github.com/Isnubi/Technology_watch_toolgraphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Isnubi/Technology_watch-tool.svg?style=for-the-badge
-[forks-url]: https://github.com/Isnubi/Technology_watch_toolnetwork/members
-[stars-shield]: https://img.shields.io/github/stars/Isnubi/Technology_watch-tool.svg?style=for-the-badge
-[stars-url]: https://github.com/Isnubi/Technology_watch_toolstargazers
-[issues-shield]: https://img.shields.io/github/issues/Isnubi/Technology_watch-tool.svg?style=for-the-badge
-[issues-url]: https://github.com/Isnubi/Technology_watch_toolissues
-[license-shield]: https://img.shields.io/github/license/Isnubi/Technology_watch-tool.svg?style=for-the-badge
-[license-url]: https://github.com/Isnubi/Technology_watch_toolblob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/Isnubi/Technology_watch_tool.svg?style=for-the-badge
+[contributors-url]: https://github.com/Isnubi/Technology_watch_tool/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Isnubi/Technology_watch_tool.svg?style=for-the-badge
+[forks-url]: https://github.com/Isnubi/Technology_watch_tool/network/members
+[stars-shield]: https://img.shields.io/github/stars/Isnubi/Technology_watch_tool.svg?style=for-the-badge
+[stars-url]: https://github.com/Isnubi/Technology_watch_tool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Isnubi/Technology_watch_tool.svg?style=for-the-badge
+[issues-url]: https://github.com/Isnubi/Technology_watch_tool/issues
+[license-shield]: https://img.shields.io/github/license/Isnubi/Technology_watch_tool.svg?style=for-the-badge
+[license-url]: https://github.com/Isnubi/Technology_watch_tool/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/louis-gambart
 [Python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
