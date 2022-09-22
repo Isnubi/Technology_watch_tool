@@ -18,7 +18,7 @@
   </a>
 -->
 
-<div align="center">"
+<div align="center">
 <h3 align="center">Technology watch tool</h3>
   <p align="center">
     <a href="https://github.com/Isnubi/Technology_watch_tool"><strong>Explore the docs »</strong></a>
